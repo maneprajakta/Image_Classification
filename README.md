@@ -6,14 +6,14 @@ All about image classification problems solved using TensorFlow while learning T
 <br>
 <br>
 <br>
-## 1.Happy_or_sad_emoji: 
+<h3> 1.Happy_or_sad_emoji: </h3> 
 -Binary Classification
 -A cnn with use of ImageDataGeneratorClass of tensorflow.
 -Source dataset contains sad and happy dataset 40 images each train on them and used for prediction.
  <br>
  <br>
  <br>
-## 2.Cat_or_Dog :
+<h3>  2.Cat_or_Dog :</h3> 
 -Binary Classification
 -A cnn with intermediate  representation of layers of model.
 -Trying to get better validation accuracy using agumentation.
@@ -22,7 +22,7 @@ All about image classification problems solved using TensorFlow while learning T
 <br>
 <br>
 <br>
-# 3.Fashion_Mnist :
+<h3>  3.Fashion_Mnist :</h3> 
 -Multiclass Classification.
 -First without cnn than using cnn to get better accuracy .
 -Using callback to stop training when desired acc reached.
