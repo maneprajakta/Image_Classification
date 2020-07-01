@@ -14,7 +14,7 @@ All about image classification problems solved using TensorFlow while learning T
 -Binary Classification
 <br>-A cnn with intermediate  representation of layers of model.
 <br>-Trying to get better validation accuracy using agumentation.
-<br>-Source data set conatains train and validation images seprate and each contain cat and dog seprate images .
+<br>-Source data set conatains train and validation images seprate and each contain cat and dog seprate images . data : https://www.kaggle.com/c/dogs-vs-cats/
 <br>-Prediction
 <br>
 <br>
